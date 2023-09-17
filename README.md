@@ -2,6 +2,7 @@
 
 #### 🚀 Checkout my personal projects
 - [Flavorful Finds](http://www.flavorfulfinds.xyz)
+- [Lotto](https://github.com/514sh/lotto)
 
 
 #### Bizness
