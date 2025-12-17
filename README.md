@@ -2,7 +2,7 @@
 
 #### 🚀 Checkout my personal projects
 
-- [Flavorful Finds](http://www.flavorfulfinds.xyz)
+- [GoSave](https://gosave.grog.com.ph)
 - [Lotto](https://github.com/514sh/lotto)
 
 ### Technologies
